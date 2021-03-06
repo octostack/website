@@ -1,0 +1,9 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "The octostack website",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
